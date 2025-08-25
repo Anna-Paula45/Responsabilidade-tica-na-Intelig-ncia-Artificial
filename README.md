@@ -1,6 +1,6 @@
 # 🚀 Novo Artigo Acadêmico Publicado!
 
-Participei da produção do artigo **"Responsabilidade Ética na Inteligência Artificial: Uma Análise Estruturada"**, no curso de **Análise e Desenvolvimento de Sistemas da Cruzeiro do Sul**.
+**"Responsabilidade Ética na Inteligência Artificial: Uma Análise Estruturada"**, no curso de **Análise e Desenvolvimento de Sistemas da Cruzeiro do Sul**.
 
 ---
 
