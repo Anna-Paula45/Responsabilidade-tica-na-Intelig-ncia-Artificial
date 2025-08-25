@@ -1,6 +1,6 @@
 # 🚀 Novo Artigo Acadêmico Publicado!
 
-Participei da produção do artigo **"Responsabilidade Ética na Inteligência Artificial: Uma Análise Estruturada"**, desenvolvido em parceria com **Juciara Conceição, Leandro Cavalcante e Suzana Silva**, no curso de **Análise e Desenvolvimento de Sistemas da Cruzeiro do Sul**.
+Participei da produção do artigo **"Responsabilidade Ética na Inteligência Artificial: Uma Análise Estruturada"**, no curso de **Análise e Desenvolvimento de Sistemas da Cruzeiro do Sul**.
 
 ---
 
@@ -23,5 +23,5 @@ O estudo discute os desafios éticos do uso da Inteligência Artificial (IA), ex
 ## ✅ Conclusão
 A Inteligência Artificial só gera valor para a sociedade se for desenvolvida com **diversidade, responsabilidade e princípios éticos desde a concepção**.  
 
-📄 [👉 Leia o artigo completo em PDF](./Relatorio-Etica-IA.pdf)
+📄 [👉 Leia o artigo completo em PDF]([./Relatorio-Etica-IA.pdf](https://github.com/Anna-Paula45/Responsabilidade-tica-na-Intelig-ncia-Artificial/blob/main/Experiencia%20Pratica%20IIl.pdf))
 
