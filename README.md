@@ -23,5 +23,6 @@ O estudo discute os desafios éticos do uso da Inteligência Artificial (IA), ex
 ## ✅ Conclusão
 A Inteligência Artificial só gera valor para a sociedade se for desenvolvida com **diversidade, responsabilidade e princípios éticos desde a concepção**.  
 
-📄 [👉 Leia o artigo completo em PDF]([./Relatorio-Etica-IA.pdf](https://github.com/Anna-Paula45/Responsabilidade-tica-na-Intelig-ncia-Artificial/blob/main/Experiencia%20Pratica%20IIl.pdf))
+📄 [👉 Leia o artigo completo em PDF]
 
+[https://github.com/Anna-Paula45/Responsabilidade-tica-na-Intelig-ncia-Artificial/blob/main/Experiencia%20Pratica%20IIl.pdf]
